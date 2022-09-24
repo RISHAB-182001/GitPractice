@@ -1,3 +1,7 @@
 hiiiiii
 
+<<<<<<< HEAD
 Wassup
+=======
+Hii
+>>>>>>> ca9e834a5bee4fe5153f4a446ae10dbca0d187d5
